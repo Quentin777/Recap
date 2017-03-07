@@ -109,3 +109,9 @@ CMD (ligne de commande)
 * http://www.generation-linux.fr/index.php?post/2007/12/09/5-les-distributions-d-hier-et-d-aujourd-hui
 
 ------------
+
+API
+===
+* https://openclassrooms.com/courses/utilisez-des-api-rest-dans-vos-projets-web
+
+------------
