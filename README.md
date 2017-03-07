@@ -82,3 +82,10 @@ Algorithme
 * https://www.grafikart.fr/formations/apprendre-algorithmique
 
 ------------
+
+Serveur
+===
+
+* https://www.grafikart.fr/formations/serveur-linux
+
+------------
