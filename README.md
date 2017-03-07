@@ -54,8 +54,18 @@ RFTM
 * https://secure.php.net/manual/fr/index.php
 
 
-Symphony
+symfony
 ===
 * https://openclassrooms.com/courses/developpez-votre-site-web-avec-le-framework-symfony
+
+------------
+
+mysql
+===
+* https://openclassrooms.com/courses/administrez-vos-bases-de-donnees-avec-mysql
+
+------------
+
+* https://www.grafikart.fr/formations/mysql
 
 ------------
