@@ -75,7 +75,7 @@ git - github
 
 ------------
 
-* ://www.grafikart.fr/formations/git
+* https://www.grafikart.fr/formations/git
 
 
 
