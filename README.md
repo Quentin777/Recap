@@ -37,3 +37,18 @@ Jsquerry
 ------------
 
 * https://www.grafikart.fr/formations/debuter-javascript/decouverte-jquery
+
+PHP
+===
+* https://openclassrooms.com/courses/concevez-votre-site-web-avec-php-et-mysql
+* https://openclassrooms.com/courses/evoluez-vers-une-architecture-php-professionnelle
+* https://openclassrooms.com/courses/programmez-en-oriente-objet-en-php
+
+------------
+
+* https://www.grafikart.fr/formations/php
+
+
+------------
+RFTM
+* https://secure.php.net/manual/fr/index.php
