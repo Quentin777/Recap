@@ -75,3 +75,10 @@ git - github
 * https://openclassrooms.com/courses/gerer-son-code-avec-git-et-github
 
 ------------
+
+Algorithme
+===
+
+* https://www.grafikart.fr/formations/apprendre-algorithmique
+
+------------
