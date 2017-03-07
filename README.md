@@ -1,6 +1,5 @@
 # Recap
 
-===
 html & css
 ===
 * https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3
@@ -106,12 +105,21 @@ shell
 
 CMD (ligne de commande)
 ===
+
 * http://www.generation-linux.fr/index.php?post/2007/12/09/5-les-distributions-d-hier-et-d-aujourd-hui
 
 ------------
 
 API
 ===
+
 * https://openclassrooms.com/courses/utilisez-des-api-rest-dans-vos-projets-web
+
+------------
+
+Markdown Cheatsheet
+===
+
+*https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ------------
