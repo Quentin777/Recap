@@ -96,3 +96,10 @@ Ruby
 * https://www.grafikart.fr/formations/ruby
 
 ------------
+
+shell
+===
+
+* https://openclassrooms.com/courses/reprenez-le-controle-a-l-aide-de-linux/introduction-aux-scripts-shell
+
+------------
